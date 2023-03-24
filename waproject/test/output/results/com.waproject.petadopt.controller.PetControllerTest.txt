@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.waproject.petadopt.controller.PetControllerTest
--------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.142 s - in com.waproject.petadopt.controller.PetControllerTest

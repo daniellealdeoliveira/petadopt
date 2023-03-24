@@ -8,7 +8,7 @@
 		<version>3.0.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.waproject</groupId>
+	<groupId>com.danielproject</groupId>
 	<artifactId>petadopt</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>petadopt</name>
@@ -81,7 +81,7 @@
 				<version>2.21.0</version>
 				<configuration>
 					<redirectTestOutputToFile>true</redirectTestOutputToFile>
-					<reportsDirectory>waproject/test/output/results</reportsDirectory>
+					<reportsDirectory>danielproject/test/output/results</reportsDirectory>
 					<forkCount>3</forkCount>
 					<reuseForks>true</reuseForks>
 				</configuration>
